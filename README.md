@@ -9,10 +9,10 @@ In this engaging and thought-provoking session, we will delve into the past year
 
 ## Learning Objectives
 
-Participants will discuss key ways in which ChatGPT has impacted higher education and libraries within academic institutions since its launch in November 2022, including both positive and negative aspects.
-Attendees will have gained insights into effective strategies for integrating ChatGPT and other generative AI technologies into educational practices within their libraries and institutions, while considering ethical and pedagogical implications.
-Participants will be equipped with the knowledge will to engage in discussions and collaborative efforts within their academic communities to proactively shape about the future of academia in the context of emerging generative AI technologies like ChatGPT, fostering a proactive and adaptive approach to this transformative change.
-Participants will engage in discussions about the future of academia in the context of emerging generative AI technologies like ChatGPT, fostering a proactive and adaptive approach to this transformative change.
++Participants will discuss key ways in which ChatGPT has impacted higher education and libraries within academic institutions since its launch in November 2022, including both positive and negative aspects.
++Attendees will have gained insights into effective strategies for integrating ChatGPT and other generative AI technologies into educational practices within their libraries and institutions, while considering ethical and pedagogical implications.
++Participants will be equipped with the knowledge will to engage in discussions and collaborative efforts within their academic communities to proactively shape about the future of academia in the context of emerging generative AI technologies like ChatGPT, fostering a proactive and adaptive approach to this transformative change.
++Participants will engage in discussions about the future of academia in the context of emerging generative AI technologies like ChatGPT, fostering a proactive and adaptive approach to this transformative change.
 
 ## Results of the poles
 <div style='position: relative; padding-bottom: 56.25%; padding-top: 35px; height: 0; overflow: hidden;'><iframe sandbox='allow-scripts allow-same-origin' allowfullscreen='true' allowtransparency='true' frameborder='0' height='315' src='https://www.mentimeter.com/app/presentation/blucum7jtyqkqew2udtdgczxgsosk645/embed' style='position: absolute; top: 0; left: 0; width: 100%; height: 100%;' width='420'></iframe></div>
