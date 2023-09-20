@@ -4,7 +4,7 @@
 Since its public launch in November 2022, ChatGPT has made a profound impact on higher education, sparking discussions and reflections among faculty, librarians, and library staff. In this interactive session, we invite you to join us in exploring the transformative influence of ChatGPT on higher education and, more specifically, on the libraries within our academic institutions.This session fits into the theme of Get Loud as we acknowledge the challenges of generative AI ahead of us and how our libraries will adapt and transform to this new technology. 
 
 In this engaging and thought-provoking session, we will delve into the past year and the ways in which ChatGPT has disrupted the landscape of higher education. Our discussion will encompass libraries' initial reactions to ChatGPT, strategies for integrating this technology into educational practices, the outcomes of those efforts, and how we can leverage our experiences to shape the future of academia.
-
+[[https://github.com/Eight-Bit-Librarian/repository/Eight-Bit-Librarian.github.io/Images/Final Version.png|alt=octocat]]
 ## Learning Objectives
 
 Participants will discuss key ways in which ChatGPT has impacted higher education and libraries within academic institutions since its launch in November 2022, including both positive and negative aspects.
