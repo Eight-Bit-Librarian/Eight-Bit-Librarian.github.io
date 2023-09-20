@@ -5,7 +5,7 @@ Since its public launch in November 2022, ChatGPT has made a profound impact on 
 
 In this engaging and thought-provoking session, we will delve into the past year and the ways in which ChatGPT has disrupted the landscape of higher education. Our discussion will encompass libraries' initial reactions to ChatGPT, strategies for integrating this technology into educational practices, the outcomes of those efforts, and how we can leverage our experiences to shape the future of academia.
 
-[[/Images/Final Version.png]]
+<img src="images/Final Version.PNG">
 
 ## Learning Objectives
 
