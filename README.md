@@ -1,4 +1,5 @@
 remote_theme: jeykll-theme-Architect
+theme: jeykll-theme-Architect
 # Navigating the impact of ChatGPT on higher education: A year in review
 ## Session Description
 
