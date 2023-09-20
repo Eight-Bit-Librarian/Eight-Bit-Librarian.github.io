@@ -1,5 +1,6 @@
 # My GitHub Website
-##New Heading
+## New Heading
+
 Welcome to my GitHub website! This is a simple website hosted on GitHub Pages.
 
 ## About Me
